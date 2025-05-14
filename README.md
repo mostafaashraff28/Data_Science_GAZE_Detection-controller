@@ -1,6 +1,4 @@
 # Data_Science_GAZE_Detection-controller
-Absolutely! Here's a professional, well-structured documentation for your MobileNetV2 gaze classification model and training process — ideal for reports, presentations, or GitHub README.
-________________________________________
 📄 Gaze Direction Classification using MobileNetV2
 📌 Project Overview
 This project implements a gaze direction classification system as part of a gaze-controlled robotic car. The model takes in cropped right-eye images and classifies them into one of four gaze directions:
@@ -74,10 +72,5 @@ ________________________________________
 •	classification_report_fold_X.txt
 •	confusion_matrix_fold_X.png
 •	tflite_models/model_fold_X_fine_tuned.tflite
-________________________________________
-Would you like me to generate this as:
-•	A Markdown file?
-•	A PDF report?
-•	Or embed it into your GitHub README?
-Just say the format — and I’ll deliver it for you.
+
 
